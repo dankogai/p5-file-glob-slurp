@@ -35,7 +35,7 @@ if ($0 eq __FILE__){
 
 =head1 NAME
 
-File::Glob::Slurp - The great new File::Glob::Slurp!
+File::Glob::Slurp - Turns <> into a slurp operator
 
 =head1 VERSION
 
