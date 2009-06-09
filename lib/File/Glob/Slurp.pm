@@ -39,7 +39,7 @@ File::Glob::Slurp - The great new File::Glob::Slurp!
 
 =head1 VERSION
 
-$Id: Slurp.pm,v 0.1 2009/06/09 20:58:37 dankogai Exp dankogai $
+$Id: Slurp.pm,v 0.1 2009/06/09 21:05:34 dankogai Exp dankogai $
 
 =head1 SYNOPSIS
 

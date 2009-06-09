@@ -1,9 +1,9 @@
 #
-# $Id: Changes,v 0.1 2009/06/09 20:58:37 dankogai Exp dankogai $
+# $Id: Changes,v 0.1 2009/06/09 21:05:34 dankogai Exp dankogai $
 #
 # Revision history for File-Glob-Slurp
 
-$Revision: 0.1 $ $Date: 2009/06/09 20:58:37 $
+$Revision: 0.1 $ $Date: 2009/06/09 21:05:34 $
 + *
   First version, released on an unsuspecting world.
 
