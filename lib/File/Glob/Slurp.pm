@@ -2,7 +2,7 @@ package File::Glob::Slurp;
 use 5.008001;
 use warnings;
 use strict;
-our $VERSION = sprintf "%d.%02d", q$Revision: 0.1 $ =~ /(\d+)/g;
+our $VERSION = sprintf "%d.%02d", q$Revision: 0.2 $ =~ /(\d+)/g;
 use Carp;
 
 no warnings 'redefine';
@@ -39,7 +39,7 @@ File::Glob::Slurp - Turns <> into a slurp operator
 
 =head1 VERSION
 
-$Id: Slurp.pm,v 0.1 2009/06/09 21:05:34 dankogai Exp dankogai $
+$Id: Slurp.pm,v 0.2 2009/06/10 05:51:19 dankogai Exp dankogai $
 
 =head1 SYNOPSIS
 
@@ -118,7 +118,7 @@ L<http://search.cpan.org/dist/File-Glob-Slurp/>
 
 Hack #90 of Perl Hacks L<http://oreilly.com/catalog/9780596526740/>
 
-L<Perl6::Slurp>>
+L<Perl6::Slurp>
 
 =head1 COPYRIGHT & LICENSE
 
@@ -126,6 +126,5 @@ Copyright 2009 Dan Kogai, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
-
 
 =cut
